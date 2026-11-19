@@ -24,7 +24,7 @@ import {
   Zap,
 } from "lucide-react";
 import "./App.css";
-import CustomCursor from "./CustomCursor";
+
 
 const skills = [
   { name: "HTML", group: "Frontend" },
